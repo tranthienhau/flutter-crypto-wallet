@@ -2,6 +2,16 @@
 
 Flutter POC for a multi-chain crypto wallet.
 
+## Demo
+
+Real iOS-Simulator captures from the running app (no mockups). See [FLOW.md](FLOW.md) for how they are generated.
+
+| Wallet | History | Receive | dApp connect |
+| --- | --- | --- | --- |
+| ![Wallet](screenshots/01-wallet.png) | ![History](screenshots/02-history.png) | ![Receive](screenshots/03-receive.png) | ![dApp](screenshots/04-dapp.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## What this demonstrates
 
 - Multi-chain balances (Ethereum, Polygon, Base) aggregated into one portfolio
